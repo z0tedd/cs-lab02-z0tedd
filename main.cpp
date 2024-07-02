@@ -4,5 +4,6 @@ int main(int argc, char *argv[]) {
   cout << "Enter A and B: ";
   int a, b;
   cin >> a >> b;
+  cout << a + b;
   return 0;
 }
