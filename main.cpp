@@ -11,5 +11,6 @@ int main(int argc, char *argv[]) {
        << "A / B = " << a / b << '\n'
        << "Max(A,B) = " << max(a, b) << '\n'
        << "Min(A,B) = " << min(a, b) << '\n';
+  // comment
   return 0;
 }
