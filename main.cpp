@@ -2,7 +2,7 @@
 using namespace std;
 int main(int argc, char *argv[]) {
   cout << "Enter A and B: ";
-  int a, b;
+  double a, b;
   cin >> a >> b;
 
   cout << "A + B = " << a + b << '\n'
